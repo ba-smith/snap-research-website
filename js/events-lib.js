@@ -750,6 +750,13 @@ const eventsList = [
     eventShort: "DIS 2022",
     url: "https://dis.acm.org/2022/",
   },
+  {
+    id: 137,
+    date: "April 18, 2022",
+    eventName: "Augmented Humans 2022",
+    eventShort: "AHs 2022",
+    url: "https://dl.acm.org/doi/proceedings/10.1145/3519391",
+  },
 
   // {
   //   id: 105,
